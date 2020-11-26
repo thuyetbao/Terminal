@@ -1,2 +1,18 @@
 [context.production.environment]
   HUGO_VERSION = "0.53"
+  
+# Novela settings
+theme = "github.com/forestryio/hugo-theme-novela"
+
+paginate = 6
+
+[social]
+twitter= "https://github.com/thuyetbao"
+github= "https://github.com/thuyetbao"
+linkedin= "https://www.linkedin.com/in/thuyetbao/"
+instagram = "#"
+dribbble = "#"
+youtube = "#"
+
+[taxonomies]
+author = "Thuyet Bao"

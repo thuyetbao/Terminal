@@ -1,0 +1,6 @@
+[submodule "gatsby-theme-novela"]
+	path = gatsby-theme-novela
+	url = https://github.com/narative/gatsby-theme-novela
+[submodule "themes/gatsby-theme-novela"]
+	path = themes/gatsby-theme-novela
+	url = https://github.com/narative/gatsby-theme-novela
