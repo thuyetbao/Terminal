@@ -1,3 +1,22 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+
+[context.production.environment]
+  HUGO_VERSION = "0.53"
+  
+# Novela settings
+theme = "gatsby-theme-novela"
+
+paginate = 6
+
+[social]
+twitter= "https://github.com/thuyetbao"
+github= "https://github.com/thuyetbao"
+linkedin= "https://www.linkedin.com/in/thuyetbao/"
+instagram = "#"
+dribbble = "#"
+youtube = "#"
+
+[taxonomies]
+author = "Thuyet Bao"
