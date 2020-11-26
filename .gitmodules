@@ -4,3 +4,6 @@
 [submodule "themes/gatsby-theme-novela"]
 	path = themes/gatsby-theme-novela
 	url = https://github.com/narative/gatsby-theme-novela
+[submodule "themes/gatby-theme-novela"]
+	path = themes/gatby-theme-novela
+	url = https://github.com/narative/gatsby-theme-novela
