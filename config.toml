@@ -1,5 +1,5 @@
 # Basic Information
-baseURL = "http://example.org/"
+baseURL = "https://thuyetbao.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
