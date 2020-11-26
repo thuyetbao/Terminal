@@ -3,22 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2020-11-26T14:49:02+00:00</lastmod>
+    <loc>https://thuyetbao.netlify.app/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-11-26T14:49:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-11-26T14:49:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/thuyet-bao/</loc>
+    <loc>https://thuyetbao.netlify.app/thuyet-bao/</loc>
   </url>
   
 </urlset>

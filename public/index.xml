@@ -2,19 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://thuyetbao.netlify.app/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2020 14:49:02 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Thu, 26 Nov 2020 14:49:02 +0000</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Here is my first post Hello World</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://thuyetbao.netlify.app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
